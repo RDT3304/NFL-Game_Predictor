@@ -1,0 +1,27 @@
+﻿Def Pass Rank,Team,GP,CMP,ATT,CMP%,PYA,PYPA,PYPG,TD,INT,SCK,Week
+1, BAL,1,23,32,71.9,183,5.7,183,1,0,4,Wild Card
+2, BUF,1,18,45,40,189,4.2,189,1,2,4,Wild Card
+3, CIN,1,17,29,58.6,209,7.2,209,2,1,2,Wild Card
+4, SF,1,25,35,71.4,228,6.5,228,2,1,3,Wild Card
+5, JAX,1,25,43,58.1,253,5.9,253,1,0,3,Wild Card
+6, NYG,1,32,40,80,271,6.8,271,2,0,0,Wild Card
+7, LAC,1,28,47,59.6,273,5.8,273,4,4,2,Wild Card
+8, MIN,1,24,35,68.6,289,8.3,289,2,0,3,Wild Card
+9, TB,1,25,33,75.8,297,9,297,4,0,1,Wild Card
+10, MIA,1,23,39,59,316,8.1,316,3,2,7,Wild Card
+11, SEA,1,18,30,60,324,10.8,324,3,0,1,Wild Card
+12, DAL,1,35,66,53,334,5.1,334,2,1,2,Wild Card
+1, PHI,1,15,27,55.6,109,4,109,0,1,5,Divisional
+2, NYG,1,16,24,66.7,148,6.2,148,2,0,1,Divisional
+3, DAL,1,19,29,65.5,199,6.9,199,0,0,2,Divisional
+4, KC,1,24,39,61.5,205,5.3,205,1,1,2,Divisional
+5, SF,1,23,37,62.2,206,5.6,206,1,2,1,Divisional
+6, JAX,1,27,37,73,218,5.9,218,3,0,0,Divisional
+7, BUF,1,23,36,63.9,240,6.7,240,2,0,1,Divisional
+8, CIN,1,25,42,59.5,262,6.2,262,0,1,1,Divisional
+1, PHI,1,11,18,61.1,83,4.6,83,0,0,3,Conference Championship
+2, SF,1,15,25,60,121,4.8,121,0,0,1,Conference Championship
+3, KC,1,26,41,63.4,238,5.8,238,1,2,5,Conference Championship
+4, CIN,1,29,43,67.4,315,7.3,315,2,0,3,Conference Championship
+1, PHI,1,21,27,77.8,182,6.7,182,3,0,0,Super Bowl
+2, KC,1,27,38,71.1,302,7.9,302,1,0,2,Super Bowl

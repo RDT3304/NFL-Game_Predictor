@@ -1,0 +1,27 @@
+﻿Def Rec Rank,Team,GP,REC,RY,YP,RYPG,TD,FUM,FL,Week
+1, BAL,1,23,183,5.7,183,1,2,1,Wild Card
+2, BUF,1,18,189,4.2,189,1,0,0,Wild Card
+3, CIN,1,17,209,7.2,209,2,2,1,Wild Card
+4, SF,1,25,228,6.5,228,2,1,1,Wild Card
+5, JAX,1,25,253,5.9,253,1,1,0,Wild Card
+6, NYG,1,32,271,6.8,271,2,1,0,Wild Card
+7, LAC,1,28,273,5.8,273,4,1,1,Wild Card
+8, MIN,1,24,289,8.3,289,2,1,0,Wild Card
+9, TB,1,25,297,9,297,4,0,0,Wild Card
+10, MIA,1,23,316,8.1,316,3,4,1,Wild Card
+11, SEA,1,18,324,10.8,324,3,0,0,Wild Card
+12, DAL,1,35,334,5.1,334,2,2,0,Wild Card
+1, PHI,1,15,109,4,109,0,1,0,Divisional
+2, NYG,1,16,148,6.2,148,2,1,0,Divisional
+3, DAL,1,19,199,6.9,199,0,1,1,Divisional
+4, KC,1,24,205,5.3,205,1,1,1,Divisional
+5, SF,1,23,206,5.6,206,1,0,0,Divisional
+6, JAX,1,27,218,5.9,218,3,0,0,Divisional
+7, BUF,1,23,240,6.7,240,2,0,0,Divisional
+8, CIN,1,25,262,6.2,262,0,0,0,Divisional
+1, PHI,1,11,83,4.6,83,0,3,3,Conference Championship
+2, SF,1,15,121,4.8,121,0,0,0,Conference Championship
+3, KC,1,26,238,5.8,238,1,0,0,Conference Championship
+4, CIN,1,29,315,7.3,315,2,2,1,Conference Championship
+1, PHI,1,21,182,6.7,182,3,1,0,Super Bowl
+2, KC,1,27,302,7.9,302,1,2,1,Super Bowl
