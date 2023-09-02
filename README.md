@@ -3,6 +3,11 @@ NFL Game (win/ loss) prediction model
 
 # README
 
+## Next Steps 09/02/23
+
+- Going to update this project and try it with a nueral network soon... Having a baby within the next 2 weeks so project is on hold for the moment!
+
+
 Initial commit
 
 readme_text = """
